@@ -1,0 +1,932 @@
+{
+  "version": 1,
+  "videoId": "sc_Lkv4B-lw",
+  "meta": {
+    "track": "絵画",
+    "artist": "大森元貴",
+    "generatedAt": "2025-12-09T08:36:52.696866Z"
+  },
+  "lines": [
+    {
+      "index": 0,
+      "text": "震わせて",
+      "startTimeMs": 1111,
+      "endTimeMs": 2260,
+      "chars": [
+        {
+          "i": 0,
+          "c": "震",
+          "t": 1111
+        },
+        {
+          "i": 1,
+          "c": "わ",
+          "t": 1299
+        },
+        {
+          "i": 2,
+          "c": "せ",
+          "t": 1430
+        },
+        {
+          "i": 3,
+          "c": "て",
+          "t": 2260
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "text": "来る",
+      "startTimeMs": 2394,
+      "endTimeMs": 2582,
+      "chars": [
+        {
+          "i": 0,
+          "c": "来",
+          "t": 2394
+        },
+        {
+          "i": 1,
+          "c": "る",
+          "t": 2582
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "text": "狂わせて",
+      "startTimeMs": 3268,
+      "endTimeMs": 3811,
+      "chars": [
+        {
+          "i": 0,
+          "c": "狂",
+          "t": 3268
+        },
+        {
+          "i": 1,
+          "c": "わ",
+          "t": 3400
+        },
+        {
+          "i": 2,
+          "c": "せ",
+          "t": 3530
+        },
+        {
+          "i": 3,
+          "c": "て",
+          "t": 3811
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "text": "捨てる",
+      "startTimeMs": 3989,
+      "endTimeMs": 4430,
+      "chars": [
+        {
+          "i": 0,
+          "c": "捨",
+          "t": 3989
+        },
+        {
+          "i": 1,
+          "c": "て",
+          "t": 4149
+        },
+        {
+          "i": 2,
+          "c": "る",
+          "t": 4430
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "text": "難儀に",
+      "startTimeMs": 4647,
+      "endTimeMs": 6582,
+      "chars": [
+        {
+          "i": 0,
+          "c": "難",
+          "t": 4647
+        },
+        {
+          "i": 1,
+          "c": "儀",
+          "t": 5008
+        },
+        {
+          "i": 2,
+          "c": "に",
+          "t": 6582
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "text": "羽",
+      "startTimeMs": 6988,
+      "endTimeMs": 6988,
+      "chars": [
+        {
+          "i": 0,
+          "c": "羽",
+          "t": 6988
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "text": "羽ばたかせ",
+      "startTimeMs": 7561,
+      "endTimeMs": 8232,
+      "chars": [
+        {
+          "i": 0,
+          "c": "羽",
+          "t": 7561
+        },
+        {
+          "i": 1,
+          "c": "ば",
+          "t": 7719
+        },
+        {
+          "i": 2,
+          "c": "た",
+          "t": 7892
+        },
+        {
+          "i": 3,
+          "c": "か",
+          "t": 8061
+        },
+        {
+          "i": 4,
+          "c": "せ",
+          "t": 8232
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "text": "千切れる",
+      "startTimeMs": 8791,
+      "endTimeMs": 9285,
+      "chars": [
+        {
+          "i": 0,
+          "c": "千",
+          "t": 8791
+        },
+        {
+          "i": 1,
+          "c": "切",
+          "t": 8954
+        },
+        {
+          "i": 2,
+          "c": "れ",
+          "t": 9121
+        },
+        {
+          "i": 3,
+          "c": "る",
+          "t": 9285
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "text": "もぐ",
+      "startTimeMs": 9456,
+      "endTimeMs": 9631,
+      "chars": [
+        {
+          "i": 0,
+          "c": "も",
+          "t": 9456
+        },
+        {
+          "i": 1,
+          "c": "ぐ",
+          "t": 9631
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "text": "艶美に",
+      "startTimeMs": 10146,
+      "endTimeMs": 12081,
+      "chars": [
+        {
+          "i": 0,
+          "c": "艶",
+          "t": 10146
+        },
+        {
+          "i": 1,
+          "c": "美",
+          "t": 10326
+        },
+        {
+          "i": 2,
+          "c": "に",
+          "t": 12081
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "text": "鐘",
+      "startTimeMs": 12495,
+      "endTimeMs": 12495,
+      "chars": [
+        {
+          "i": 0,
+          "c": "鐘",
+          "t": 12495
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "text": "響くは街に",
+      "startTimeMs": 12991,
+      "endTimeMs": 14522,
+      "chars": [
+        {
+          "i": 0,
+          "c": "響",
+          "t": 12991
+        },
+        {
+          "i": 1,
+          "c": "く",
+          "t": 13151
+        },
+        {
+          "i": 2,
+          "c": "は",
+          "t": 13318
+        },
+        {
+          "i": 3,
+          "c": "街",
+          "t": 13467
+        },
+        {
+          "i": 4,
+          "c": "に",
+          "t": 14522
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "text": "また残酷に",
+      "startTimeMs": 14864,
+      "endTimeMs": 17606,
+      "chars": [
+        {
+          "i": 0,
+          "c": "ま",
+          "t": 14864
+        },
+        {
+          "i": 1,
+          "c": "た",
+          "t": 15213
+        },
+        {
+          "i": 2,
+          "c": "残",
+          "t": 15907
+        },
+        {
+          "i": 3,
+          "c": "酷",
+          "t": 16290
+        },
+        {
+          "i": 4,
+          "c": "に",
+          "t": 17606
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "text": "禊の様に",
+      "startTimeMs": 19747,
+      "endTimeMs": 20411,
+      "chars": [
+        {
+          "i": 0,
+          "c": "禊",
+          "t": 19747
+        },
+        {
+          "i": 1,
+          "c": "の",
+          "t": 20067
+        },
+        {
+          "i": 2,
+          "c": "様",
+          "t": 20193
+        },
+        {
+          "i": 3,
+          "c": "に",
+          "t": 20411
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "text": "洗う様に",
+      "startTimeMs": 20731,
+      "endTimeMs": 23168,
+      "chars": [
+        {
+          "i": 0,
+          "c": "洗",
+          "t": 20731
+        },
+        {
+          "i": 1,
+          "c": "う",
+          "t": 21270
+        },
+        {
+          "i": 2,
+          "c": "様",
+          "t": 21441
+        },
+        {
+          "i": 3,
+          "c": "に",
+          "t": 23168
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "text": "夢なら覚める頃",
+      "startTimeMs": 47032,
+      "endTimeMs": 51144,
+      "chars": [
+        {
+          "i": 0,
+          "c": "夢",
+          "t": 47032
+        },
+        {
+          "i": 1,
+          "c": "な",
+          "t": 47531
+        },
+        {
+          "i": 2,
+          "c": "ら",
+          "t": 48063
+        },
+        {
+          "i": 3,
+          "c": "覚",
+          "t": 48563
+        },
+        {
+          "i": 4,
+          "c": "め",
+          "t": 49069
+        },
+        {
+          "i": 5,
+          "c": "る",
+          "t": 49564
+        },
+        {
+          "i": 6,
+          "c": "頃",
+          "t": 51144
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "text": "孤独にも慣れた",
+      "startTimeMs": 51322,
+      "endTimeMs": 53922,
+      "chars": [
+        {
+          "i": 0,
+          "c": "孤",
+          "t": 51322
+        },
+        {
+          "i": 1,
+          "c": "独",
+          "t": 52359
+        },
+        {
+          "i": 2,
+          "c": "に",
+          "t": 53082
+        },
+        {
+          "i": 3,
+          "c": "も",
+          "t": 53218
+        },
+        {
+          "i": 4,
+          "c": "慣",
+          "t": 53518
+        },
+        {
+          "i": 5,
+          "c": "れ",
+          "t": 53633
+        },
+        {
+          "i": 6,
+          "c": "た",
+          "t": 53922
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "text": "あぁ また嘘をついた",
+      "startTimeMs": 54044,
+      "endTimeMs": 57004,
+      "chars": [
+        {
+          "i": 0,
+          "c": "あ",
+          "t": 54044
+        },
+        {
+          "i": 1,
+          "c": "ぁ",
+          "t": 54592
+        },
+        {
+          "i": 2,
+          "c": " ",
+          "t": 54728
+        },
+        {
+          "i": 3,
+          "c": "ま",
+          "t": 54909
+        },
+        {
+          "i": 4,
+          "c": "た",
+          "t": 55071
+        },
+        {
+          "i": 5,
+          "c": "嘘",
+          "t": 55252
+        },
+        {
+          "i": 6,
+          "c": "を",
+          "t": 55403
+        },
+        {
+          "i": 7,
+          "c": "つ",
+          "t": 55559
+        },
+        {
+          "i": 8,
+          "c": "い",
+          "t": 55951
+        },
+        {
+          "i": 9,
+          "c": "た",
+          "t": 57004
+        }
+      ]
+    },
+    {
+      "index": 18,
+      "text": "誰にもバレないように",
+      "startTimeMs": 58060,
+      "endTimeMs": 60785,
+      "chars": [
+        {
+          "i": 0,
+          "c": "誰",
+          "t": 58060
+        },
+        {
+          "i": 1,
+          "c": "に",
+          "t": 58523
+        },
+        {
+          "i": 2,
+          "c": "も",
+          "t": 59067
+        },
+        {
+          "i": 3,
+          "c": "バ",
+          "t": 59583
+        },
+        {
+          "i": 4,
+          "c": "レ",
+          "t": 60119
+        },
+        {
+          "i": 5,
+          "c": "な",
+          "t": 60618
+        },
+        {
+          "i": 6,
+          "c": "い",
+          "t": 60785
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "text": "抱きしめてと",
+      "startTimeMs": 62495,
+      "endTimeMs": 62495,
+      "chars": []
+    },
+    {
+      "index": 20,
+      "text": "洩れないように",
+      "startTimeMs": 64274,
+      "endTimeMs": 64274,
+      "chars": []
+    },
+    {
+      "index": 21,
+      "text": "散らかった思考の渦に",
+      "startTimeMs": 67813,
+      "endTimeMs": 67813,
+      "chars": []
+    },
+    {
+      "index": 22,
+      "text": "呑まれそうな私を",
+      "startTimeMs": 73156,
+      "endTimeMs": 73156,
+      "chars": []
+    },
+    {
+      "index": 23,
+      "text": "最期まで愛してほしい",
+      "startTimeMs": 76104,
+      "endTimeMs": 76104,
+      "chars": []
+    },
+    {
+      "index": 24,
+      "text": "飾られる様な絵画にはなれなくても",
+      "startTimeMs": 78864,
+      "endTimeMs": 78864,
+      "chars": []
+    },
+    {
+      "index": 25,
+      "text": "私にしか無い色で",
+      "startTimeMs": 84279,
+      "endTimeMs": 84279,
+      "chars": []
+    },
+    {
+      "index": 26,
+      "text": "描いてほしい",
+      "startTimeMs": 87327,
+      "endTimeMs": 87327,
+      "chars": []
+    },
+    {
+      "index": 27,
+      "text": "せめて私のためだけに",
+      "startTimeMs": 89525,
+      "endTimeMs": 89525,
+      "chars": []
+    },
+    {
+      "index": 28,
+      "text": "描いてほしい",
+      "startTimeMs": 92904,
+      "endTimeMs": 92904,
+      "chars": []
+    },
+    {
+      "index": 29,
+      "text": "震わせて",
+      "startTimeMs": 106184,
+      "endTimeMs": 106184,
+      "chars": []
+    },
+    {
+      "index": 30,
+      "text": "来る",
+      "startTimeMs": 107473,
+      "endTimeMs": 107473,
+      "chars": []
+    },
+    {
+      "index": 31,
+      "text": "狂わせて",
+      "startTimeMs": 107807,
+      "endTimeMs": 107807,
+      "chars": []
+    },
+    {
+      "index": 32,
+      "text": "捨てる",
+      "startTimeMs": 108898,
+      "endTimeMs": 108898,
+      "chars": []
+    },
+    {
+      "index": 33,
+      "text": "ページに",
+      "startTimeMs": 109308,
+      "endTimeMs": 109308,
+      "chars": []
+    },
+    {
+      "index": 34,
+      "text": "花",
+      "startTimeMs": 111713,
+      "endTimeMs": 111713,
+      "chars": []
+    },
+    {
+      "index": 35,
+      "text": "咲くことも",
+      "startTimeMs": 112086,
+      "endTimeMs": 112086,
+      "chars": []
+    },
+    {
+      "index": 36,
+      "text": "知らずに散る",
+      "startTimeMs": 113305,
+      "endTimeMs": 113305,
+      "chars": []
+    },
+    {
+      "index": 37,
+      "text": "フェミニン",
+      "startTimeMs": 114773,
+      "endTimeMs": 114773,
+      "chars": []
+    },
+    {
+      "index": 38,
+      "text": "誰にもバレないように",
+      "startTimeMs": 117858,
+      "endTimeMs": 117858,
+      "chars": []
+    },
+    {
+      "index": 39,
+      "text": "悲しませて",
+      "startTimeMs": 123171,
+      "endTimeMs": 123171,
+      "chars": []
+    },
+    {
+      "index": 40,
+      "text": "歓ばせてよ",
+      "startTimeMs": 125574,
+      "endTimeMs": 125574,
+      "chars": []
+    },
+    {
+      "index": 41,
+      "text": "散らばった理想の海に",
+      "startTimeMs": 128625,
+      "endTimeMs": 128625,
+      "chars": []
+    },
+    {
+      "index": 42,
+      "text": "溺れる様な私を",
+      "startTimeMs": 133790,
+      "endTimeMs": 133790,
+      "chars": []
+    },
+    {
+      "index": 43,
+      "text": "最期までポイして欲しい",
+      "startTimeMs": 136977,
+      "endTimeMs": 136977,
+      "chars": []
+    },
+    {
+      "index": 44,
+      "text": "鮮やかに映す",
+      "startTimeMs": 139704,
+      "endTimeMs": 139704,
+      "chars": []
+    },
+    {
+      "index": 45,
+      "text": "レンズには傷が目立つけど",
+      "startTimeMs": 141608,
+      "endTimeMs": 141608,
+      "chars": []
+    },
+    {
+      "index": 46,
+      "text": "私にしか無い理由で",
+      "startTimeMs": 145050,
+      "endTimeMs": 145050,
+      "chars": []
+    },
+    {
+      "index": 47,
+      "text": "縋っていて欲しい",
+      "startTimeMs": 148181,
+      "endTimeMs": 148181,
+      "chars": []
+    },
+    {
+      "index": 48,
+      "text": "せめて私のためだけに",
+      "startTimeMs": 150387,
+      "endTimeMs": 150387,
+      "chars": []
+    },
+    {
+      "index": 49,
+      "text": "歌っていて欲しい",
+      "startTimeMs": 153708,
+      "endTimeMs": 153708,
+      "chars": []
+    },
+    {
+      "index": 50,
+      "text": "誰かのせいに",
+      "startTimeMs": 178668,
+      "endTimeMs": 178668,
+      "chars": []
+    },
+    {
+      "index": 51,
+      "text": "誰かのせいにして",
+      "startTimeMs": 181499,
+      "endTimeMs": 181499,
+      "chars": []
+    },
+    {
+      "index": 52,
+      "text": "生きてゆけたら",
+      "startTimeMs": 184383,
+      "endTimeMs": 184383,
+      "chars": []
+    },
+    {
+      "index": 53,
+      "text": "楽なんだろうな",
+      "startTimeMs": 186773,
+      "endTimeMs": 186773,
+      "chars": []
+    },
+    {
+      "index": 54,
+      "text": "辛かった非凡と鬱に",
+      "startTimeMs": 190949,
+      "endTimeMs": 190949,
+      "chars": []
+    },
+    {
+      "index": 55,
+      "text": "呑まれていた",
+      "startTimeMs": 196262,
+      "endTimeMs": 196262,
+      "chars": []
+    },
+    {
+      "index": 56,
+      "text": "私の海岸を歩いてほしい",
+      "startTimeMs": 198055,
+      "endTimeMs": 198055,
+      "chars": []
+    },
+    {
+      "index": 57,
+      "text": "見せられぬ程",
+      "startTimeMs": 201946,
+      "endTimeMs": 201946,
+      "chars": []
+    },
+    {
+      "index": 58,
+      "text": "だらしない今日に明日に",
+      "startTimeMs": 204216,
+      "endTimeMs": 204216,
+      "chars": []
+    },
+    {
+      "index": 59,
+      "text": "私にしか無い色で描いてほしい",
+      "startTimeMs": 207334,
+      "endTimeMs": 207334,
+      "chars": []
+    },
+    {
+      "index": 60,
+      "text": "せめて貴方の部屋に",
+      "startTimeMs": 212676,
+      "endTimeMs": 212676,
+      "chars": []
+    },
+    {
+      "index": 61,
+      "text": "その絵画を飾ってほしい",
+      "startTimeMs": 215258,
+      "endTimeMs": 215258,
+      "chars": []
+    },
+    {
+      "index": 62,
+      "text": "虚しさが残る",
+      "startTimeMs": 218898,
+      "endTimeMs": 218898,
+      "chars": []
+    },
+    {
+      "index": 63,
+      "text": "血管を泳ぐ",
+      "startTimeMs": 221621,
+      "endTimeMs": 221621,
+      "chars": []
+    },
+    {
+      "index": 64,
+      "text": "不安のループに踊る",
+      "startTimeMs": 224433,
+      "endTimeMs": 224433,
+      "chars": []
+    },
+    {
+      "index": 65,
+      "text": "私を許して",
+      "startTimeMs": 226887,
+      "endTimeMs": 226887,
+      "chars": []
+    },
+    {
+      "index": 66,
+      "text": "また鐘が鳴る",
+      "startTimeMs": 229912,
+      "endTimeMs": 229912,
+      "chars": []
+    },
+    {
+      "index": 67,
+      "text": "冷えた部屋に残る",
+      "startTimeMs": 232713,
+      "endTimeMs": 232713,
+      "chars": []
+    },
+    {
+      "index": 68,
+      "text": "私の影を",
+      "startTimeMs": 235545,
+      "endTimeMs": 235545,
+      "chars": []
+    },
+    {
+      "index": 69,
+      "text": "貴方は探してくれる？",
+      "startTimeMs": 237854,
+      "endTimeMs": 237854,
+      "chars": []
+    },
+    {
+      "index": 70,
+      "text": "私にしか無い色で描いてほしい",
+      "startTimeMs": null,
+      "endTimeMs": null,
+      "chars": []
+    }
+  ]
+}
